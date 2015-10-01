@@ -225,6 +225,19 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOBDKVII
 
+[ProjectVariant1]
+Description=С питание LCD от 3.3В
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=U9|UniqueId=\WCFWLFNF|Kind=1|AlternatePart= 
+Variation2=Designator=C38|UniqueId=\HKMHXECD|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Quasar ARM\Design Rule Check - pechatka_100x60.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=D:\Program Files\Altium\Documents\AD14\Library\*.*
 IncludeSubFolders=1
