@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Quasar ARM
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -229,9 +229,10 @@ DocumentUniqueId=UOBDKVII
 Description=С питание LCD от 3.3В
 AllowFabrication=0
 ParameterCount=0
-VariationCount=2
+VariationCount=3
 Variation1=Designator=U9|UniqueId=\WCFWLFNF|Kind=1|AlternatePart= 
 Variation2=Designator=C38|UniqueId=\HKMHXECD|Kind=1|AlternatePart= 
+Variation3=Designator=C35*|UniqueId=\NBUNDLXM|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [SearchPath1]
@@ -249,7 +250,7 @@ GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Quasar ARM
 
 [OutputGroup1]
 Name=Netlist Outputs
