@@ -236,6 +236,10 @@ Variation3=Designator=C35*|UniqueId=\NBUNDLXM|Kind=1|AlternatePart=
 Variation4=Designator=X8|UniqueId=\CLANMSMC|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Quasar ARM\Design Rule Check - pechatka_100x60.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=D:\Program Files\Altium\Documents\AD14\Library\*.*
 IncludeSubFolders=1
@@ -256,7 +260,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=\\“¿“‹ﬂÕ¿-œ \Samsung ML-2010 Series
+TargetPrinter=Brother HL-2030 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -292,7 +296,7 @@ OutputDefault6=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=\\“¿“‹ﬂÕ¿-œ \Samsung ML-2010 Series
+TargetPrinter=Brother HL-2030 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -441,7 +445,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=\\“¿“‹ﬂÕ¿-œ \Samsung ML-2010 Series
+TargetPrinter=Brother HL-2030 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -463,7 +467,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=\\“¿“‹ﬂÕ¿-œ \Samsung ML-2010 Series
+TargetPrinter=Brother HL-2030 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
@@ -539,7 +543,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=\\“¿“‹ﬂÕ¿-œ \Samsung ML-2010 Series
+TargetPrinter=Brother HL-2030 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -576,7 +580,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=\\“¿“‹ﬂÕ¿-œ \Samsung ML-2010 Series
+TargetPrinter=Brother HL-2030 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -756,7 +760,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=\\“¿“‹ﬂÕ¿-œ \Samsung ML-2010 Series
+TargetPrinter=Brother HL-2030 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Configuration compliance
 OutputName1=Environment configuration compliance check
@@ -795,7 +799,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=\\“¿“‹ﬂÕ¿-œ \Samsung ML-2010 Series
+TargetPrinter=Brother HL-2030 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB

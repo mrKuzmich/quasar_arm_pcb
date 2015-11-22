@@ -121,7 +121,7 @@ PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration4_Name1=OutputConfigurationParameter1
 Configuration4_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=9750000|PrintAreaLowerLeftCornerY=9850000|PrintAreaUpperRightCornerX=47151575|PrintAreaUpperRightCornerY=47250000|Record=PcbPrintView
 Configuration4_Name2=OutputConfigurationParameter2
-Configuration4_Item2=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=True|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=True|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration4_Item2=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=True|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
 Configuration4_Name3=OutputConfigurationParameter3
 Configuration4_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 Configuration4_Name4=OutputConfigurationParameter4
@@ -245,7 +245,7 @@ MarkPortsId3=1
 GenerateTOC=1
 ShowComponentParameters3=1
 GlobalBookmarks3=0
-OutputFilePath4=C:\Projects\quasar_arm_pcb\Project Outputs for Quasar ARM\.PDF
+OutputFilePath4=D:\Proects\quasar_arm_pcb\Project Outputs for Quasar ARM\Job1.PDF
 ReleaseManaged4=1
 OutputBasePath4=Project Outputs for Quasar ARM
 OutputPathMedia4=
@@ -283,6 +283,6 @@ OpenIPCOutput2=0
 EnableReload2=0
 RelativeOutputPath3=E:\!\Projects\Radio\QuasarARM\ADesignerProject\Quasar ARM\Project Outputs for Quasar ARM\Job1.PDF
 OpenOutputs3=1
-RelativeOutputPath4=C:\Projects\quasar_arm_pcb\Project Outputs for Quasar ARM\.PDF
+RelativeOutputPath4=D:\Proects\quasar_arm_pcb\Project Outputs for Quasar ARM\Job1.PDF
 OpenOutputs4=1
 
