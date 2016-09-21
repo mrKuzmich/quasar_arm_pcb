@@ -225,6 +225,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOBDKVII
 
+[Document12]
+DocumentPath=pechatka_100x60_print.cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 Description=С питание LCD от 3.3В
 AllowFabrication=0
@@ -238,6 +255,46 @@ ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Quasar ARM\Design Rule Check - pechatka_100x60.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Quasar ARM\NC Drill\pechatka_100x60.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Quasar ARM\NC Drill\pechatka_100x60.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60.REP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Quasar ARM\NC Drill\pechatka_100x60.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60_Legend_Top.gbr
 DItemRevisionGUID=
 
 [SearchPath1]
