@@ -259,7 +259,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document14]
+DocumentPath=pechatka_100x60_fabric_v2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SJFMPVAO
+
 [ProjectVariant1]
+UniqueID=FC234BA7-E19F-487C-8F35-0B9EF41DF324
 Description=С питание LCD от 3.3В
 AllowFabrication=0
 ParameterCount=0
@@ -315,7 +333,7 @@ DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60_Legend_Top.
 DItemRevisionGUID=
 
 [SearchPath1]
-Path=D:\Program Files\Altium\Documents\AD14\Library\*.*
+Path=..\..\Users\irina\Downloads\Altium Unified Components\*.*
 IncludeSubFolders=1
 
 [Configuration1]
@@ -325,7 +343,6 @@ ConstraintFileCount=0
 ReleaseItemId=
 CurrentRevision=
 Variant=[No Variations]
-GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_EDE]
@@ -334,7 +351,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Brother HL-2030 series
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -356,37 +373,112 @@ OutputName4=XSpice Netlist
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-OutputType5=SIMetrixNetlist
-OutputName5=SIMetrix
+OutputType5=CadnetixNetlist
+OutputName5=Cadnetix Netlist
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=SIMPLISNetlist
-OutputName6=SIMPLIS
+OutputType6=CalayNetlist
+OutputName6=Calay Netlist
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
+OutputType7=EDIF
+OutputName7=EDIF for PCB
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=EESofNetlist
+OutputName8=EESof Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=IntergraphNetlist
+OutputName9=Intergraph Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=MentorBoardStationNetlist
+OutputName10=Mentor BoardStation Netlist
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=MultiWire
+OutputName11=MultiWire
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=OrCadPCB2Netlist
+OutputName12=Orcad/PCB2 Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=PADSNetlist
+OutputName13=PADS ASCII Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Pcad
+OutputName14=Pcad for PCB
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=PCADnltNetlist
+OutputName15=PCADnlt Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Protel2Netlist
+OutputName16=Protel2 Netlist
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=ProtelNetlist
+OutputName17=Protel
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=RacalNetlist
+OutputName18=Racal Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=RINFNetlist
+OutputName19=RINF Netlist
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=SciCardsNetlist
+OutputName20=SciCards Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+OutputType21=TangoNetlist
+OutputName21=Tango Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=TelesisNetlist
+OutputName22=Telesis Netlist
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=WireListNetlist
+OutputName23=WireList Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother HL-2030 series
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -515,11 +607,23 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType18=PCBDrawing
+OutputName18=Draftsman
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType19=PDF3D
+OutputName19=PDF3D
+OutputDocumentPath19=
+OutputVariantName19=[No Variations]
+OutputDefault19=0
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Brother HL-2030 series
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -541,7 +645,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Brother HL-2030 series
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
@@ -617,7 +721,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Brother HL-2030 series
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -654,7 +758,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Brother HL-2030 series
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -834,7 +938,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Brother HL-2030 series
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Configuration compliance
 OutputName1=Environment configuration compliance check
@@ -873,32 +977,32 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Brother HL-2030 series
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=PDF3D
-OutputName1=PDF3D
+OutputType1=AutoCAD dwg/dxf PCB
+OutputName1=AutoCAD dwg/dxf File PCB
 OutputDocumentPath1=
-OutputVariantName1=[No Variations]
+OutputVariantName1=
 OutputDefault1=0
-OutputType2=AutoCAD dwg/dxf PCB
-OutputName2=AutoCAD dwg/dxf File PCB
+OutputType2=AutoCAD dwg/dxf Schematic
+OutputName2=AutoCAD dwg/dxf File Schematic
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=AutoCAD dwg/dxf Schematic
-OutputName3=AutoCAD dwg/dxf File Schematic
+OutputType3=ExportIDF
+OutputName3=Export IDF
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=ExportIDF
-OutputName4=Export IDF
+OutputType4=ExportSTEP
+OutputName4=Export STEP
 OutputDocumentPath4=
-OutputVariantName4=
+OutputVariantName4=[No Variations]
 OutputDefault4=0
-OutputType5=ExportSTEP
-OutputName5=Export STEP
+OutputType5=NetList Sch
+OutputName5=NetList Sch
 OutputDocumentPath5=
-OutputVariantName5=[No Variations]
+OutputVariantName5=
 OutputDefault5=0
 
 [Modification Levels]
@@ -980,6 +1084,8 @@ Type75=1
 Type76=1
 Type77=1
 Type78=1
+Type79=1
+Type80=1
 
 [Difference Levels]
 Type1=1
@@ -1025,6 +1131,8 @@ Type40=1
 Type41=1
 Type42=1
 Type43=1
+Type44=0
+Type45=1
 
 [Electrical Rules Check]
 Type1=1
