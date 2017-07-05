@@ -311,7 +311,7 @@ GenerateClassCluster=0
 DocumentUniqueId=URCVQWDB
 
 [Document17]
-DocumentPath=pechatka_integrator.PcbDoc
+DocumentPath=pechatka_integrator.cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
