@@ -325,6 +325,23 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+DocumentUniqueId=MXVFNDGY
+
+[Document18]
+DocumentPath=CoilOrganiser.cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
 DocumentUniqueId=
 
 [ProjectVariant1]
@@ -340,46 +357,106 @@ Variation4=Designator=X8|UniqueId=\CLANMSMC|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Quasar ARM\Design Rule Check - pechatka_100x60.html
+DocumentPath=Project Outputs for Quasar ARM\NC Drill\CoilOrganiser.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Quasar ARM\NC Drill\pechatka_100x60.DRR
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\CoilOrganiser.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60.EXTREP
+DocumentPath=Project Outputs for Quasar ARM\NC Drill\CoilOrganiser.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Quasar ARM\NC Drill\pechatka_100x60.LDP
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\CoilOrganiser.REP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60.REP
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\CoilOrganiser.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60.RUL
+DocumentPath=Project Outputs for Quasar ARM\NC Drill\CoilOrganiser.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Quasar ARM\NC Drill\pechatka_100x60.TXT
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\CoilOrganiser_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\CoilOrganiser_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for Quasar ARM\Design Rule Check - pechatka_100x60.html
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60_Legend_Bot.gbr
+DocumentPath=Project Outputs for Quasar ARM\NC Drill\Integrator.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument11]
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\Integrator.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Quasar ARM\NC Drill\Integrator.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\Integrator.REP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\Integrator.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Quasar ARM\NC Drill\Integrator.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\Integrator_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Quasar ARM\NC Drill\pechatka_100x60.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Quasar ARM\NC Drill\pechatka_100x60.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60.REP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Quasar ARM\NC Drill\pechatka_100x60.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument26]
 DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60_Legend_Top.gbr
 DItemRevisionGUID=
 
