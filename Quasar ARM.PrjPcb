@@ -357,106 +357,46 @@ Variation4=Designator=X8|UniqueId=\CLANMSMC|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Quasar ARM\NC Drill\CoilOrganiser.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Quasar ARM\GerberX2\CoilOrganiser.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Quasar ARM\NC Drill\CoilOrganiser.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Quasar ARM\GerberX2\CoilOrganiser.REP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Quasar ARM\GerberX2\CoilOrganiser.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Quasar ARM\NC Drill\CoilOrganiser.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Quasar ARM\GerberX2\CoilOrganiser_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Quasar ARM\GerberX2\CoilOrganiser_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument9]
 DocumentPath=Project Outputs for Quasar ARM\Design Rule Check - pechatka_100x60.html
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Quasar ARM\NC Drill\Integrator.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Quasar ARM\GerberX2\Integrator.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Quasar ARM\NC Drill\Integrator.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Quasar ARM\GerberX2\Integrator.REP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Quasar ARM\GerberX2\Integrator.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Quasar ARM\NC Drill\Integrator.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Quasar ARM\GerberX2\Integrator_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Quasar ARM\NC Drill\pechatka_100x60.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Quasar ARM\NC Drill\pechatka_100x60.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60.REP
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Quasar ARM\NC Drill\pechatka_100x60.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Quasar ARM\GerberX2\pechatka_100x60_Legend_Top.gbr
 DItemRevisionGUID=
 
@@ -480,7 +420,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=HP LaserJet 400 MFP M425 PCL 6
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -582,12 +522,22 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=XSpice Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP LaserJet 400 MFP M425 PCL 6
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -674,11 +624,23 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=PCBDrawing
+OutputName11=Draftsman
+OutputDocumentPath11=
+OutputVariantName11=[No Variations]
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=PDF3D
+OutputName12=PDF3D
+OutputDocumentPath12=
+OutputVariantName12=[No Variations]
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=HP LaserJet 400 MFP M425 PCL 6
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -700,7 +662,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP LaserJet 400 MFP M425 PCL 6
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
@@ -767,11 +729,16 @@ OutputName11=Gerber X2 Files
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=IPC2581
+OutputName12=IPC-2581 Files
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
 
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=HP LaserJet 400 MFP M425 PCL 6
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -808,7 +775,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=HP LaserJet 400 MFP M425 PCL 6
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -988,7 +955,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=HP LaserJet 400 MFP M425 PCL 6
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Configuration compliance
 OutputName1=Environment configuration compliance check
@@ -1027,7 +994,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=HP LaserJet 400 MFP M425 PCL 6
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1078,7 +1045,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=HP LaserJet 400 MFP M425 PCL 6
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
